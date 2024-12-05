@@ -1,3 +1,5 @@
+package arvore_corrigida.src;
+
 public class Tree {
     No raiz;
 
@@ -75,7 +77,7 @@ public class Tree {
     }
 
 
-
+    //recursivo
     public static boolean existeNo(No root, int valor){
         if(root==null)
             return false;

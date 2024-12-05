@@ -1,5 +1,7 @@
-import java.util.Scanner;
+package arvore_corrigida.src;
 
+import java.util.Scanner;
+import arvore_corrigida.src.*;
 public class Main {
 
     public static void main(final String[] args) {
